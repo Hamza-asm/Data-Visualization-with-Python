@@ -12,3 +12,9 @@ To explore and visualize datasets using powerful Python libraries and uncover in
 - Matplotlib
 - Seaborn
 - Jupyter Notebooks
+
+
+# Dataset 
+Dataset downloaded from Kaggle 'Vehicle Sales Data'
+
+The "Vehicle Sales and Market Trends Dataset" provides a detailed record of vehicle sales transactions, offering valuable insights into the automotive market. This dataset includes attributes such as the year, make, model, trim, body type, transmission type, VIN (Vehicle Identification Number), registration state, condition rating, odometer reading, exterior and interior colors, seller details, Manheim Market Report (MMR) values, selling prices, and sale dates.
