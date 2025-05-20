@@ -11,4 +11,4 @@ To explore and visualize datasets using powerful Python libraries and uncover in
 - Pandas
 - Matplotlib
 - Seaborn
-- Jupyter Notebooks (for interactive visuals)
+- Jupyter Notebooks
