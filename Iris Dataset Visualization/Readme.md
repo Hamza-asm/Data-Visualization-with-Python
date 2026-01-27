@@ -1,7 +1,7 @@
 # Task 1: Exploring and Visualizing a Simple Dataset
 
 ## Overview
-This project is part of the Data Science & Analytics Internship at DevelopersHub Corporation. The goal of this task is to demonstrate fundamental data science skills, including data ingestion, structural analysis, and exploratory data analysis (EDA) using Python.
+The goal of this task is to demonstrate fundamental data science skills, including data ingestion, structural analysis, and exploratory data analysis (EDA) using Python.
 
 ## Task Objective
 The primary objective is to understand how to read, summarize, and visualize a dataset. Using the classic Iris dataset, the specific goals were to:
